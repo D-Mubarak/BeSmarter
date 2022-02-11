@@ -3,6 +3,9 @@
     <color name="dark_blue">#4446AD</color>
     <color name="orange">#FFD156</color>
     <color name="light_green">#3CCAB4</color>
-    <color name="gfd">#2FD9E6</color>
+    <color name="blue">#2FD9E6</color>
+    <color name="brown">#502713</color>
+    <color name="light_orange">#F5A35A</color>
+
 
 </resources>
